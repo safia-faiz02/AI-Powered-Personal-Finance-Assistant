@@ -10,10 +10,10 @@ The AI-Powered Personal Finance Assistant is a smart budgeting tool designed to 
 ✅ Actionable Recommendations: Provides clear steps to cut unnecessary expenses and save more.
 
 #### Tech Stack:
-Frontend: Streamlit
-Backend: Python (PyMuPDF, Camel framework)
-AI Model: Deepseek V3
-Budgeting Principles: 50/30/20 Rule, Zero-based Budgeting
+- Frontend: Streamlit
+- Backend: Python (PyMuPDF, Camel framework)
+- AI Model: Deepseek V3
+- Budgeting Principles: 50/30/20 Rule, Zero-based Budgeting
 
 #### Impact Statement:
 This tool empowers users with clear, actionable insights to build better financial habits, reduce overspending, and increase savings. It makes personal finance management accessible, intuitive, and data-driven, fostering long-term financial well-being.
