@@ -1,0 +1,6 @@
+streamlit
+camel-ai
+transformers
+huggingface_hub
+pymupdf
+qdrant-client
